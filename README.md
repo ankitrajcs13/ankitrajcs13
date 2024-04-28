@@ -7,7 +7,7 @@
  ### About Me 🚀
 ## I am Ankit Raj!
  
-🎓 I am a 2nd year student pursuing my bachelor's in Computer Science. Passionate about problem solving and development. Proficient in C++ and data structures. Always ready to learn new technologies
+🎓 I am a 3rd year student pursuing my bachelor's in Computer Science. Passionate about problem solving and development. Proficient in C++ and data structures. Always ready to learn new technologies
 
 *   You can contact me at [ankitrajcs13@gmail.com](mailto:ankitrajcs13@gmail.com)
 *   I'm learning Development.
